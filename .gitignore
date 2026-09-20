@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+output/*
+uploads/*
+temp_uploads/*
+bulk_temp/*
+
+data/*.json
+
+*.log
+
+.venv/
+venv/
+env/
+
+.env
